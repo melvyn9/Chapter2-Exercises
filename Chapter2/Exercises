@@ -1,0 +1,70 @@
+#All work and no play makes Jack a dull boy
+
+a = "All"
+w = "work"
+z = "and"
+n = "no"
+p = "play"
+m = "makes"
+j = "Jack"
+d = "a"
+e = "dull"
+b = "boy"
+
+print(a,w,z,n,p,m,j,d,e,b)
+
+print(6 * (1 - 2))
+
+#All work and no play makes Jack a dull boy
+
+a = "All"
+w = "work"
+z = "and"
+n = "no"
+p = "play"
+m = "makes"
+j = "Jack"
+d = "a"
+e = "dull"
+b = "boy"
+
+print(a,w,z,n,p,m,j,d,e,b)
+
+bruce = 6
+print(bruce + 4)
+
+P = 10000
+n = 12
+r = 8/100
+Years = int(input("Please enter the number of years: "))
+t = Years
+
+A = P * (1 + r/n )**(n * t)
+print(A)
+
+5 % 2
+9 % 5
+15 % 12
+12 % 15
+6 % 6
+0 % 7
+7 % 0
+
+time = 1400
+waittime = 5100
+normalday = 2400
+
+waittime1 = waittime - normalday
+waittime2 = waittime1 - normalday
+newtime = time + waittime2
+print("The new time is", newtime)
+
+Currenttime = int(input("Please enter the 4 digit current time: "))
+time2 = int(input("Please enter the 4 digit number of hours to wait: "))
+Waittime = time2
+
+while Waittime > 24000 :
+    Waittime2 = Waittime - 2400
+
+Newtime = Currenttime + Waittime
+
