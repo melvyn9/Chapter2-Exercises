@@ -67,4 +67,5 @@ while Waittime > 24000 :
     Waittime2 = Waittime - 2400
 
 Newtime = Currenttime + Waittime
+print(Newtime)
 
